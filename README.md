@@ -20,7 +20,7 @@
 
 ---
 
-##  What is Potato Ai
+## What is Potato Ai
 **Potato AI** is a minimalist, native desktop AI Coding Agent application modeled after Antigravity and designed specifically for local execution on Windows laptops with **NVIDIA GeForce RTX 4060 (8GB VRAM) and 24GB RAM**.
 
 Unlike corporate cloud AI assistants, Potato AI runs **100% locally and privately offline**, will **never lecture or preach to you**, and is engineered with a **gaming multitasking offloader** so you can code while playing high-end video games without frame drops.
