@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller temporary build folders
+build/
+dist/
+*.spec
+
+# GGUF models & installers (downloaded on demand)
+models/*.gguf
+models/*.part
+installer/
+
+# Local session storage
+.potato_ai/
