@@ -19,7 +19,7 @@ Potato AI is a lightweight, local coding agent that runs on your Windows machine
 - 100% local & private
 - Model‑agnostic: use community models or your own
 - Uncensored: focused on solutions, not lectures
-- Tuned for RTX GPUs and low memory overhead
+- Works well on systems with 6+ GB VRAM and low memory overhead
 
 ---
 
@@ -28,7 +28,7 @@ Potato AI is a lightweight, local coding agent that runs on your Windows machine
 - One‑click model hub and engine Auto‑Fix
 - Real‑time DuckDuckGo search for docs & fixes
 - Project-aware edits, diffs, and persistent chats
-- GPU tuning to balance gaming + coding headroom
+- GPU tuning for balanced local performance
 
 ---
 
@@ -43,12 +43,12 @@ Install a model via the Model Hub or paste a GGUF/Ollama link. Use Auto‑Fix if
 
 ---
 
-## Tuning (RTX 4060 example)
+## Tuning (6+ GB VRAM systems)
 | Mode | GPU Layers | Best For |
 |---|---:|---|
-| Gaming Headroom | 20–22 | Games + coding |
+| Performance Headroom | 20–22 | Running other apps alongside coding tasks |
 | Balanced | 24 | Daily work |
-| Max Speed | 28 | Dedicated coding |
+| Max Speed | 28 | Dedicated coding session |
 
 ---
 
