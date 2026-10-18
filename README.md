@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Fast local AI coding for developers — no cloud lock‑in, no lecture.</b>
+  <b>Fast local AI coding for developers — no cloud, no lecture, Uncensored,Code Anything.</b>
 </p>
 
 ---
