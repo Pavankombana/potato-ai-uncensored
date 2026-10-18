@@ -1,4 +1,4 @@
-# 🥔 Potato AI — 100% Local Offline AI & Uncensored Coding Agent
+# Potato AI — 100% Local Offline AI & Uncensored Coding Agent
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pavankombana/potato-ai-uncensored/main/.github/assets/potato_logo.png" alt="Potato AI Logo" width="120" onerror="this.style.display='none'"/>
@@ -20,25 +20,24 @@
 
 ---
 
-## 🌟 What is Potato AI?
-
+##  What is Potato Ai
 **Potato AI** is a minimalist, native desktop AI Coding Agent application modeled after Antigravity and designed specifically for local execution on Windows laptops with **NVIDIA GeForce RTX 4060 (8GB VRAM) and 24GB RAM**.
 
 Unlike corporate cloud AI assistants, Potato AI runs **100% locally and privately offline**, will **never lecture or preach to you**, and is engineered with a **gaming multitasking offloader** so you can code while playing high-end video games without frame drops.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 🥔 **100% Uncensored Coding**: Zero preaching, zero moralizing disclaimers, no refusal boilerplate, and no conversational fluff. Direct production-ready code immediately.
-- ⚡ **Standalone `PotatoAI.exe`**: Pre-compiled native executable. Just double-click to launch—no Python commands or terminal setup required.
-- 🌐 **Real-Time Web Search**: Built-in zero-key DuckDuckGo web search scraper that fetches fresh documentation, library syntax, and error solutions on the fly.
-- 🎮 **RTX 4060 Gaming Headroom Optimizer**: Dynamic GPU layer offload calculator (`0-28` layers). Offloads 20-22 layers to GPU VRAM (~4.0 GB) and remaining layers to your 24GB system RAM, leaving **~4.0 GB VRAM completely free for gaming**.
-- 🛠️ **Autonomous Agent Tools**: Reads project files, writes code, applies surgical diff replacements, inspects directory structures, and runs PowerShell commands.
-- 📥 **1-Click Model Hub**: Install `Qwen-2.5-Coder-7B-Instruct-Abliterated` (`Q4_K_M` ~4.68GB or `Q5_K_M` ~5.43GB) with one click, or paste any custom Hugging Face GGUF link with resumable downloads.
-- 🔧 **Intelligent Auto-Fix Assistant**: Proactively diagnoses offline engines, starts local background services with 1 click, or downloads the official Ollama installer.
-- 📄 **Project Artifacts & Code Viewer**: Antigravity-style inspector to view generated files, diffs, and copy snippets with syntax highlighting.
-- 💾 **Persistent Chat Sessions**: Multi-chat session management automatically saved across launches.
+-  **100% Uncensored Coding**: Zero preaching, zero moralizing disclaimers, no refusal boilerplate, and no conversational fluff. Direct production-ready code immediately.
+-  **Standalone `PotatoAI.exe`**: Pre-compiled native executable. Just double-click to launch—no Python commands or terminal setup required.
+-  **Real-Time Web Search**: Built-in zero-key DuckDuckGo web search scraper that fetches fresh documentation, library syntax, and error solutions on the fly.
+-  **RTX 4060 Gaming Headroom Optimizer**: Dynamic GPU layer offload calculator (`0-28` layers). Offloads 20-22 layers to GPU VRAM (~4.0 GB) and remaining layers to your 24GB system RAM, leaving **~4.0 GB VRAM completely free for gaming**.
+-  **Autonomous Agent Tools**: Reads project files, writes code, applies surgical diff replacements, inspects directory structures, and runs PowerShell commands.
+-  **1-Click Model Hub**: Install `Qwen-2.5-Coder-7B-Instruct-Abliterated` (`Q4_K_M` ~4.68GB or `Q5_K_M` ~5.43GB) with one click, or paste any custom Hugging Face GGUF link with resumable downloads.
+-  **Intelligent Auto-Fix Assistant**: Proactively diagnoses offline engines, starts local background services with 1 click, or downloads the official Ollama installer.
+-  **Project Artifacts & Code Viewer**: Antigravity-style inspector to view generated files, diffs, and copy snippets with syntax highlighting.
+-  **Persistent Chat Sessions**: Multi-chat session management automatically saved across launches.
 
 ---
 
@@ -54,7 +53,7 @@ run.bat
 
 ### 2. Download the Model
 1. Click **`Install Model ▾`** in the top navigation bar or **`📥 Get started - Install a model`** on the home screen.
-2. Under **🌟 Curated Models**, click **`⚡ 1-Click Install`** next to:
+2. Under ** Curated Models**, click **`⚡ 1-Click Install`** next to:
    - **`Qwen-2.5-Coder-7B-Instruct-Abliterated (Q4_K_M)`** (~4.68 GB) — *Recommended for smooth multitasking & gaming*.
 3. Model files are stored locally in `P:\Antigravity\model\` or `./models/`.
 
@@ -66,7 +65,7 @@ If the status pill shows `● Offline`:
 
 ---
 
-## 🎮 Multitasking & Gaming Tuning Guide
+## Multitasking & Gaming Tuning Guide
 
 | Setting | GPU Layers (`-ngl`) | VRAM Used | Free VRAM for Games | Use Case |
 |---|---|---|---|---|
@@ -76,7 +75,7 @@ If the status pill shows `● Offline`:
 
 ---
 
-## 📂 Project Architecture
+## Project Architecture
 
 ```text
 potato-ai-uncensored/
@@ -109,6 +108,6 @@ potato-ai-uncensored/
 
 ---
 
-## 🛡️ License
+##  License
 
 Open-source under the [MIT License](LICENSE). Built with ❤️ for developers who want raw, uncensored coding power without corporate preaching.
