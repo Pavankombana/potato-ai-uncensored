@@ -1,7 +1,7 @@
 # Potato AI — 100% Local Offline AI & Uncensored Coding Agent
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pavankombana/potato-ai-uncensored/main/.github/assets/potato_logo.png" alt="Potato AI Logo" width="120" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/Pavankombana/potato-ai-uncensored/main/.github/assets/toPotato ai uncensored logo.png" alt="Potato AI Logo" width="120" onerror="this.style.display='none'"/>
 </p>
 
 <p align="center">
