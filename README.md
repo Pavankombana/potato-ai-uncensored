@@ -41,7 +41,7 @@ Unlike corporate cloud AI assistants, Potato AI runs **100% locally and privatel
 
 ---
 
-## 📥 Quick Start
+## Quick Start
 
 ### 1. Download & Run
 Double-click [**`PotatoAI.exe`**](https://github.com/Pavankombana/potato-ai-uncensored/raw/main/PotatoAI.exe) in the repository folder, or launch via:
@@ -52,16 +52,16 @@ run.bat
 ```
 
 ### 2. Download the Model
-1. Click **`Install Model ▾`** in the top navigation bar or **`📥 Get started - Install a model`** on the home screen.
-2. Under ** Curated Models**, click **`⚡ 1-Click Install`** next to:
+1. Click **`Install Model ▾`** in the top navigation bar or **`Get started - Install a model`** on the home screen.
+2. Under ** Curated Models**, click **` 1-Click Install`** next to:
    - **`Qwen-2.5-Coder-7B-Instruct-Abliterated (Q4_K_M)`** (~4.68 GB) — *Recommended for smooth multitasking & gaming*.
 3. Model files are stored locally in `P:\Antigravity\model\` or `./models/`.
 
 ### 3. Connect Local Engine (1-Click Auto-Fix)
 If the status pill shows `● Offline`:
 - Click the **`Auto-Fix`** button.
-- If Ollama is installed, click **`⚡ Start Ollama Service`**.
-- If not installed, click **`📥 1-Click Download & Install Ollama`** to download the official installer.
+- If Ollama is installed, click **` Start Ollama Service`**.
+- If not installed, click **` 1-Click Download & Install Ollama`** to download the official installer.
 
 ---
 
