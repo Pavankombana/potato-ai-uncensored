@@ -1,4 +1,4 @@
-# Potato AI — Local, Model‑Agnostic & Uncensored
+# Potato AI — Local, & Uncensored
 
 <p align="center">
   <img src="https://github.com/Pavankombana/potato-ai-uncensored/blob/main/Potato%20ai%20uncensored%20logo.png" alt="Potato AI Logo" width="120" onerror="this.style.display='none'"/>
