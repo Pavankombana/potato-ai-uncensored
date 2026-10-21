@@ -17,9 +17,9 @@ Potato AI is a lightweight, local coding agent that runs on your Windows machine
 
 ## Why
 - 100% local & private
-- Model‑agnostic: use community models or your own
-- Uncensored: focused on solutions, not lectures
-- Works well on systems with 6+ GB VRAM and low memory overhead
+- Model‑agnostic: use community models or your own.
+- Uncensored: focused on solutions, not lectures.
+- Works well on systems with 6+ GB VRAM and low memory overhead.
 
 ---
 
