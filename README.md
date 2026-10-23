@@ -23,7 +23,7 @@ Potato AI is a lightweight, local coding agent that runs on your Windows machine
 
 ---
 
-## Features
+## Features.
 - Install or paste any local model (GGUF/Ollama)
 - One‑click model hub and engine Auto‑Fix
 - Real‑time DuckDuckGo search for docs & fixes
