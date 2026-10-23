@@ -52,7 +52,7 @@ Install a model via the Model Hub or paste a GGUF/Ollama link. Use Auto‑Fix if
 
 ---
 
-## Project layout
+## Project layout.
 ```text
 potato-ai-uncensored/
 ├── PotatoAI.exe
